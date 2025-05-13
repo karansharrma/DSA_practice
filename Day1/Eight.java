@@ -14,7 +14,7 @@ public class Eight {
         if (originalNumber == reversedNumber) {
             System.out.println(originalNumber + " is a palindrome.");
         } else {
-            System.out.println(originalNumber + " is not a palindrome.");
+            System.out.print(originalNumber + " is not a palindrome.");
         }
     }
 }
